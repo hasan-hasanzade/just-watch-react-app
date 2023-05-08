@@ -1,6 +1,6 @@
 # 🎥 JustWatch movie app 🎥
 
-Online sushi ordering app.
+Streaming guide for movies, TV shows & series
 
 # [Check the live demo](https://just-watch-react-app.vercel.app/)
 
@@ -8,18 +8,16 @@ Online sushi ordering app.
 
 # 🛠 Technologies Used:
 
-+ ReactJS 18
-+ TypeScript
-+ Redux Toolkit
-+ React Router v6
++ ReactJS
++ React Router
 + Axios + Fetch
 + React Hooks
-+ React Content Loader (Skeleton)
 + CSS-Modules / SCSS
-+ React Pagination
-+ Lodash.Debounce
-+ Code Splitting, React Loadable, useWhyDidYouUpdate
-+ Backend - mockapi
++ Swiper
++ Query String
++ Material UI
++ React Spring
++ Backend - TMDB API
 
 # Author
 
