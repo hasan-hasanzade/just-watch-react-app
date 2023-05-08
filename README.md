@@ -1,4 +1,4 @@
-# 🎥 JustWatch movie app 🎥
+# 🎬 JustWatch movie app 🎬
 
 Streaming guide for movies, TV shows & series
 
