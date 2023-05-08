@@ -23,4 +23,4 @@ Streaming guide for movies, TV shows & series
 
  👤 H&H
  
- Github: [@hasan-hasanzade](https://github.com/hasan-hasanzade)
+ :octocat: [@hasan-hasanzade](https://github.com/hasan-hasanzade)
